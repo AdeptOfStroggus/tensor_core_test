@@ -1,55 +1,21 @@
-# Prerequisites
-*.d
+# Ignore build output directory
+/build
+/export
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Ignore object files and dependent files
+.o
+.d
 
-# Linker output
-*.ilk
-*.map
-*.exp
+#Ignore logs folder and log files
+/logs
+.log
 
-# Precompiled Headers
-*.gch
-*.pch
+#Ignore lock files
+.lock
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+.bin
+.pdi
+.vitisWorkspace.json
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
-
-# debug information files
-*.dwo
+_ide/logs
+_ide/.wsdata
