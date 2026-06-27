@@ -1,0 +1,7 @@
+# ninja log v5
+18	194	8042921209140353	CMakeFiles/TensorTest.elf.dir/helloworld.c.obj	602819217366c748
+23	132	8042921208524815	CMakeFiles/TensorTest.elf.dir/platform.c.obj	9d7c01548f1f2fb0
+195	366	8042921210390271	TensorTest.elf	ad515496c5826755
+25	147	8042922536530317	CMakeFiles/TensorTest.elf.dir/platform.c.obj	9d7c01548f1f2fb0
+20	199	8042922537049871	CMakeFiles/TensorTest.elf.dir/helloworld.c.obj	602819217366c748
+199	379	8042922538347449	TensorTest.elf	ad515496c5826755

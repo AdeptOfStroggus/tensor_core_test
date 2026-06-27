@@ -1,0 +1,3 @@
+C:/Users/adeptofstroggus/Desktop/Projects/Tensor_V2/TensorTest/build/CMakeFiles/TensorTest.elf.dir
+C:/Users/adeptofstroggus/Desktop/Projects/Tensor_V2/TensorTest/build/CMakeFiles/edit_cache.dir
+C:/Users/adeptofstroggus/Desktop/Projects/Tensor_V2/TensorTest/build/CMakeFiles/rebuild_cache.dir
